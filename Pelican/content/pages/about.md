@@ -14,7 +14,7 @@ I currently work as a data scientist at Boeing. Previously I was at NC State whe
 
 ### About this site
 
-This is the second iteration of my personal website. It is mix between digital garden, blog, and resume. This version was built using [Pelican](https://docs.getpelican.com/en/latest/index.html) along with the [Flex theme](https://github.com/alexandrevicenzi/Flex). You can find the Git repo [here](https://github.com/BensGitHubAccount/new_website).
+This is the second iteration of my personal website. It is mix between digital garden, blog, and resume. This version was built using [Pelican](https://docs.getpelican.com/en/latest/index.html) along with the [Flex theme](https://github.com/alexandrevicenzi/Flex). You can find the Git repo [here](https://github.com/BensGitHubAccount/bensgithubaccount.github.io/tree/main/Pelican).
 
 Check out some of my [posts](/posts)
 

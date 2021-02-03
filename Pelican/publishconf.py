@@ -10,7 +10,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://bensgithubaccount.github.io'
+SITEURL = 'https://bencraver.com'
 SITELOGO = '/images/blank_pic.jpg'
 RELATIVE_URLS = False
 
@@ -23,3 +23,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+# pelican content -o .. -s pelicanconf.py
