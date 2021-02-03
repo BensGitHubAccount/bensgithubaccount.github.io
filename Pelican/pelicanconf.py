@@ -4,7 +4,7 @@ import datetime
 # need to update the copywright stuff
 AUTHOR = 'Benjamin'
 SITENAME = 'Bencraver.com'
-SITEURL = "https://bensgithubaccount.github.io"
+SITEURL = "localhost:8000"
 SITENAME = "bencraver.com" # Tab title
 SITETITLE = "Welcome!"
 SITESUBTITLE = ""
