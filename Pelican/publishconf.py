@@ -11,7 +11,7 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://bencraver.com'
-SITELOGO = 'content/images/blank_pic.jpg'
+SITELOGO = '/content/images/blank_pic.jpg'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -24,4 +24,4 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
-# pelican content -o .. -s pelicanconf.py
+# pelican content -o .. -s publishconf.py
