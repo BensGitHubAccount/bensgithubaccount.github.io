@@ -11,7 +11,7 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://bencraver.com'
-SITELOGO = '/Pelican/content/images/blank_pic.jpg'
+SITELOGO = '/Pelican/content/images/art.jpg'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

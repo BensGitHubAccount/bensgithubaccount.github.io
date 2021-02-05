@@ -11,7 +11,7 @@ SITESUBTITLE = ""
 SITEDESCRIPTION = "bencraver.com - a personal website"
 COPYRIGHT_NAME = 'Benjamin Craver'
 COPYRIGHT_YEAR = datetime.date.today().year
-SITELOGO = 'blank_pic.jpg'
+SITELOGO = 'art.jpg'
 
 PATH = 'content'
 TIMEZONE = "America/New_York"
