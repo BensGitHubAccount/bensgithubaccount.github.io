@@ -11,6 +11,7 @@ Here are a few links to sites/articles/videos/talks that caught my interest rece
 # AI/ML
 - [Bayesian methods for hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [Bayesian perspective on Q learning](https://brandinho.github.io/bayesian-perspective-q-learning/)
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 # Econ/Finance
 - [Musing on Markets](https://aswathdamodaran.blogspot.com/)
